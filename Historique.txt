@@ -1,0 +1,115 @@
+    1  git --version
+    2  code
+    3  . code
+    4  ls
+    5  cd
+    6  ls
+    7  cd Documents/
+    8  ls
+    9  ls
+   10  cd Projet/
+   11  ls
+   12  cd React/
+   13  npx create-react-app my-react-app
+   14  npm -v
+   15  npx create-react-app my-react-app
+   16  nmp install -g npm
+   17  npm cache clean --force
+   18  npx create-react-app my-react-app
+   19  npm install -g create-react-app
+   20  npx create-react-app my-react-app
+   21  code .
+   22  cd my-react-app
+   23  code .
+   24  cd
+   25  ls
+   26  cd majdi
+   27  cd Documents
+   28  ls
+   29  cd Projet/
+   30  ls
+   31  cd Projet react madimi
+   32  ls
+   33  cd Projet react madimi
+   34  git clone [200~https://github.com/DiegoMazenc/first-site-team.git~
+   35  code .
+   36  cd
+   37  ls
+   38  cd Documents/
+   39  ls
+   40  cd Projet
+   41  ls
+   42  cd projet-react-madimi
+   43  git clone https://github.com/DiegoMazenc/first-site-team.git
+   44  code .
+   45  code .
+   46  cd
+   47  ls
+   48  cd Documents/
+   49  ls
+   50  cd projet
+   51  ls
+   52  git clone https://github.com/DiegoMazenc/second-site-team.git
+   53  /hest name
+   54  hostname
+   55  bwd
+   56  pwd
+   57  cd ..
+   58  pwd
+   59  cd ..
+   60  ls
+   61  cd -
+   62  ls
+   63  cd ~/desktop/
+   64  cd ~/Disktop/
+   65  #creer un dossier
+   66  mkdir Toto
+   67  ls
+   68  ls -l
+   69  ls -la
+   70  cd Toto/
+   71  touch Bibu.txt
+   72  ls -l
+   73  touch Biba.txt
+   74  ls
+   75  mkdir Data
+   76  cd Data/
+   77  touch merci.txt
+   78  cd ..
+   79  ls -la
+   80  git init
+   81  echo "Bonjour" > Biba.txt
+   82  git add .
+   83  git status
+   84  git commit -m "Mon premier commit"
+   85  cat Biba.txt
+   86  echo "Au revoir" >> Biba.txt
+   87  cat Biba.txt
+   88  git add .
+   89  git commit -m "Deuxieme COmmit"
+   90  echo "Hello" > Bibu.txt
+   91  git add .
+   92  git commit -m "Troiseme commit"
+   93  git branch Test
+   94  git checkout Test 
+   95  git add .
+   96  git commit -m "Branch test"
+   97  git rm Biba.txt
+   98  git rm -rf Data/
+   99  git add *
+  100  git commit -m "Suppression de fichers"
+  101  ls
+  102  git checkout master
+  103  ls
+  104  touch ./Data/{oh,ah}.txt
+  105  ls ./Data/
+  106  git add *
+  107  git commit -m "Ajout de fichiers"
+  108  git checkout Test 
+  109  git branch Re7
+  110  git checkout Re7
+  111  git add .
+  112  git commit -m "Creation re7"
+  113  touch Historique.txt
+  114  history
+  115   history > Historique.txt 
